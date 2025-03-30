@@ -6,3 +6,6 @@ This repository contains an implementation of the **Archimedes Optimization Algo
 ✅ Solves optimization problems efficiently  
 ✅ Easy-to-use Python implementation  
 ✅ Works with **Google Colab**, **Streamlit**, and **GitHub**  
+#### Option 1: Run in Google Colab
+Click the button below to open in **Google Colab**:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)  
