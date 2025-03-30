@@ -22,8 +22,8 @@ streamlit run aoa.py
 - Modify the objective function in `aoa.py` to optimize different problems  
 - Use **Streamlit UI** for interactive optimization  
 ### 🔗 Links
-- **GitHub Repo:** [https://github.com/YOUR_GITHUB_USERNAME/aoa-optimization](https://github.com/YOUR_GITHUB_USERNAME/aoa-optimization)  
-- **Streamlit App:** [https://share.streamlit.io/YOUR_USERNAME/aoa-optimization](https://share.streamlit.io/YOUR_USERNAME/aoa-optimization)  
+- **GitHub Repo:** [https://github.com/ancy25/aoa-optimization](https://github.com/ancy25/aoa-optimization)  
+- **Streamlit App:** [https://share.streamlit.io/ancy25/aoa-optimization](https://share.streamlit.io/ancy25/aoa-optimization)  
 - **Google Colab Notebook:** [YOUR_COLAB_LINK_HERE]  
 ### 📜 License
 This project is licensed under the **Apache-2.0**.  
