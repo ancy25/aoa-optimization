@@ -24,7 +24,7 @@ streamlit run aoa.py
 ### 🔗 Links
 - **GitHub Repo:** [https://github.com/ancy25/aoa-optimization](https://github.com/ancy25/aoa-optimization)  
 - **Streamlit App:** [https://share.streamlit.io/ancy25/aoa-optimization](https://share.streamlit.io/ancy25/aoa-optimization)  
-- **Google Colab Notebook:** [YOUR_COLAB_LINK_HERE]  
+- **Google Colab Notebook:** [https://colab.research.google.com/drive/1k8GvLyYv-c_0HDnsyRVKGjN3qo7K1Ow1?usp=sharing]  
 ### 📜 License
 This project is licensed under the **Apache-2.0**.  
 
