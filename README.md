@@ -11,10 +11,20 @@ This repository contains an implementation of the **Archimedes Optimization Algo
 Click the button below to open in **Google Colab**:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)  
 ### B. Run on Your Local Computer
-```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/aoa-optimization.git
 cd aoa-optimization
 pip install -r requirements.txt
 python aoa.py
-```bash
-C. Run as a Streamlit Web App
+### C. Run as a Streamlit Web App
+streamlit run aoa.py
+### 🛠 Usage
+- Run `aoa.py` to execute the optimization algorithm  
+- Modify the objective function in `aoa.py` to optimize different problems  
+- Use **Streamlit UI** for interactive optimization  
+### 🔗 Links
+- **GitHub Repo:** [https://github.com/YOUR_GITHUB_USERNAME/aoa-optimization](https://github.com/YOUR_GITHUB_USERNAME/aoa-optimization)  
+- **Streamlit App:** [https://share.streamlit.io/YOUR_USERNAME/aoa-optimization](https://share.streamlit.io/YOUR_USERNAME/aoa-optimization)  
+- **Google Colab Notebook:** [YOUR_COLAB_LINK_HERE]  
+### 📜 License
+This project is licensed under the **Apache-2.0**.  
+
